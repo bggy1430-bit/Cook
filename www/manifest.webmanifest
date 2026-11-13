@@ -1,0 +1,20 @@
+{
+  "name": "재활용 체쿠",
+  "short_name": "체쿠",
+  "lang": "ko-KR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fafcfb",
+  "theme_color": "#267247",
+  "description": "사진으로 분리배출 방법을 알아보는 재활용 안내 앱",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
